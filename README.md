@@ -20,7 +20,3 @@
     <script src="script.js"></script>
 </body>
 </html>
-
-document.getElementById("botao").addEventListener("click", function() {
-    alert("Você clicou no botão!");
-});
