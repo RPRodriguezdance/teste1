@@ -12,7 +12,7 @@
         <h1>Bem-vindo ao Meu Site</h1>
     </header>
     <main>
-        Este é o meu primeiro site criado do zero!
+        <p>Este é o meu primeiro site criado do zero!</p>
         <button id="botao">Clique aqui</button>
     </main>
     <footer>
